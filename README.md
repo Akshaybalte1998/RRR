@@ -7,6 +7,7 @@
 :- completed this project in to revise my skills in React ,Html ,CSS Booatstrap and Also In JavaScript 
 :- It deployed using github checkOut below Link
 :-  https://akshaybalte1998.github.io/AkshayBalte_Full_Stack_Developer
+:- Above the react reasume there is one option to contact me. If  you want Connect with me you can   go through contact me  And send message.
 
 
 
